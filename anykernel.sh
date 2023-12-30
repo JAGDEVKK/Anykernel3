@@ -4,10 +4,10 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Panda KSU
-kernel.compiler=WeebX Clang
-kernel.made=TogoFire
-message.word=Join @TogoFireChannel @McQuaidKernel
+kernel.string=RedMarsh KSU
+kernel.compiler=Debian Clang
+kernel.made=JAGDEVKK
+message.word=
 do.devicecheck=1
 do.modules=0
 do.systemless=1
